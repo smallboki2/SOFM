@@ -1,6 +1,7 @@
 # SOFM
 #matlab code
 The mnist.mat can be download from the following link.
+run mnist_script.m to train map for mnist
 https://drive.google.com/open?id=1cJ6h8t8Ifr08eyx5eie9cY8JYscHFXSS
 
 #verilog
